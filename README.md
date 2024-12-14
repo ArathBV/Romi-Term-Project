@@ -47,3 +47,16 @@ Shown below is the course designed for Romi to navigate, featuring different cha
 ![IMG_5084](https://github.com/user-attachments/assets/4c6f6fb1-14a9-436e-be9a-9cc8aaa613dd)
 
 [ROMI Trial Video](https://youtu.be/yMir0CIqmmk "@embed")
+
+## Challenges and Improvements
+This term project was a challenging but rewarding experience, during which we learned a lot about control structures, sensor data collection,
+and cooperative multitasking. A major hurdle of ours was the burning out of our first RC line sensor, following its implementation, two days 
+before the final trials. We adapted by modifying the first sensor to use two of the operational sensors to calibrate our white/black threshold
+and test motor speed changes while awaiting the arrival of the new sensor. Unfortunately, this work seemed inconsequential since the new sensor
+had entirely different response times, which should have been anticipated. That being said, we are proud to have accomplished a successful line
+following, wall-navigating robot that made it to, and almost over, the finish line.
+
+Some improvements we would like to make, given more time, would include writing a series of interrupts to avoid blocking operations while waiting
+for line sensor readings. This would reduce our Sensor class period, allowing us to run it more frequently. This would allow Romi the ability to
+navigate the course successfully at higher speeds. We also would like to have implemented inertia measurement unit data to provide a specific
+heading for Romi to spin to while finding its way back to start.
