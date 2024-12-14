@@ -1,5 +1,8 @@
 # Romi-Term-Project
-Cal Poly ME 405 Final Project. Differential Drive Romi-bot.
+Cal Poly ME 405 Final Project. Differential Drive Romi-bot. This repository contains a detailed description of our hardware and 
+software design used to navigate a complex course with a Romi robot. The 'src' folder contains all our source code including
+task, function, and driver classes. The 'Diagrams' folder contains 'Hardware' and 'Software' folders containing various diagrams
+describing our design.
 
 ![IMG_5083](https://github.com/user-attachments/assets/6634316a-27ad-42bf-85a4-1a34ac572fc5)
 
