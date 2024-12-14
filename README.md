@@ -43,6 +43,7 @@ hot-glue. The IMU was attached using provided M2.5 standoffs and screws; all sen
 ![IMG_5081](https://github.com/user-attachments/assets/92791398-eb6c-4855-a269-e412c57ecfee)
 
 ## Romi Results
+Shown below is the course designed for Romi to navigate, featuring different challenges for line sensors, bump sensors, and overall navigation.
 ![IMG_5084](https://github.com/user-attachments/assets/4c6f6fb1-14a9-436e-be9a-9cc8aaa613dd)
 
 [ROMI Trial Video](https://youtu.be/yMir0CIqmmk "@embed")
