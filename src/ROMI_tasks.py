@@ -222,8 +222,6 @@ class MotR_control:
                 raise ValueError('Invalid state')
             yield state
 
-# Maybe change sensing task into a class instead of gen function, then we can take in the line sensor object initialized
-# in main and create a self variable of that object, and access its methods within sensing.
 
 class Sensing:
     ''' !@brief A task class for Sensing
