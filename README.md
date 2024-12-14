@@ -51,8 +51,8 @@ Shown below is the course designed for Romi to navigate, featuring different cha
 ## Challenges and Improvements
 This term project was a challenging but rewarding experience, during which we learned a lot about control structures, sensor data collection,
 and cooperative multitasking. A major hurdle of ours was the burning out of our first RC line sensor, following its implementation, two days 
-before the final trials. We adapted by modifying the first sensor to use two of the operational sensors to calibrate our white/black threshold
-and test motor speed changes while awaiting the arrival of the new sensor. Unfortunately, this work seemed inconsequential since the new sensor
+before the final trials. We adapted by utilizing two of the operational sensors from our first sensor to calibrate our white/black threshold
+and test motor speed changes while awaiting the arrival of a new sensor. Unfortunately, this work proved inconsequential since the new sensor
 had entirely different response times, which should have been anticipated. That being said, we are proud to have accomplished a successful line
 following, wall-navigating robot that made it to, and almost over, the finish line.
 
