@@ -45,6 +45,9 @@ hot-glue. The IMU was attached using provided M2.5 standoffs and screws; all sen
 
 ![IMG_5081](https://github.com/user-attachments/assets/92791398-eb6c-4855-a269-e412c57ecfee)
 
+Shown below is the wiring diagram of our Romi system. Each of the sensors and components mentioned above are shown below and how each component's pins are connected to STM32L476RG board. The wiring diagram follows the way the software sets up each component for easy to follow setup.
+![ME 405 ROMI Wiring Diagram](https://github.com/user-attachments/assets/69d522b9-7ecf-4a55-a899-2480047d2555)
+
 ## Romi Results
 Shown below is the course designed for Romi to navigate, featuring different challenges for line sensors, bump sensors, and overall navigation.
 ![IMG_5084](https://github.com/user-attachments/assets/4c6f6fb1-14a9-436e-be9a-9cc8aaa613dd)
