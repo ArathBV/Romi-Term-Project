@@ -1,6 +1,8 @@
 # Romi-Term-Project
 Cal Poly ME 405 Final Project. Differential Drive Romi-bot.
 
+![IMG_5083](https://github.com/user-attachments/assets/7b50c9fd-f23e-4251-8664-a620f8500a91)
+
 ## Romi Tasks Design
 The motor control tasks (1 and 2) were designed according to the finite state machine below. The four motor states, following
 initialization, cycle between Start, Maintain, Stop, and Wait. It relies on the 'start' flag to be set or cleared from the sense
