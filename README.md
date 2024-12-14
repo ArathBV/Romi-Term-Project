@@ -52,7 +52,7 @@ Shown below is the wiring diagram of our Romi system. Each of the sensors and co
 Shown below is the course designed for Romi to navigate, featuring different challenges for line sensors, bump sensors, and overall navigation.
 ![IMG_5084](https://github.com/user-attachments/assets/4c6f6fb1-14a9-436e-be9a-9cc8aaa613dd)
 
-[![YouTube](http://i.ytimg.com/vi/yMir0CIqmmk/hqdefault.jpg)](https://www.youtube.com/watch?v=yMir0CIqmmk)
+[ROMI Trial Video](https://youtu.be/yMir0CIqmmk "@embed")
 
 ## Challenges and Improvements
 This term project was a challenging but rewarding experience, during which we learned a lot about control structures, sensor data collection,
