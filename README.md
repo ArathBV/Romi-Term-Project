@@ -34,8 +34,6 @@ since motor control and sensor reading needed to coincide for successful course 
 
 ## Romi Hardware Design
 
-![IMG_5081](https://github.com/user-attachments/assets/ff9c0a01-6df9-4cdb-8f1b-b335b95f4bea)
-
 The sensors and components we used are as follows: 1 HC-06 bluetooth module, 1 QTR-8RC reflectance sensor array, 2 Pololu mini snap-action
 switches (used as bump sensors), and a BNO055 inertial measurement unit (functional with our driver class but unemployed for term project).
 The reflectance sensor array is supported with zip-ties through front holes of Romi's chassis, and the bump sensors are mounted with M2 
