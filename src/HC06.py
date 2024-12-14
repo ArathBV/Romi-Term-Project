@@ -1,11 +1,11 @@
 from pyb import Pin, Timer, UART
 import pyb
-'''
-!@brief HC06-RS232 Driver Class for Serial Bluetooth Communication
-Driver uses USART3 on the STM32L476RG Board and establishes a REPL
-connection to be displayed through the Serial
-'''
+
 class HC06 :
+    '''!@brief HC06-RS232 Driver Class for Serial Bluetooth Communication
+    Driver uses USART3 on the STM32L476RG Board and establishes a REPL
+    connection to be displayed through the Serial
+    '''
     def __init__(self):
         # USART 3 on STM32 PC5 TX and PC10 RX
         self.uart = UART(3, 9600)
