@@ -43,5 +43,6 @@ hot-glue. The IMU was attached using provided M2.5 standoffs and screws; all sen
 ![IMG_5081](https://github.com/user-attachments/assets/92791398-eb6c-4855-a269-e412c57ecfee)
 
 ## Romi Results
-![IMG_7448](https://github.com/user-attachments/assets/6740c6f9-460a-4af2-9a72-9fac4a6b9206)
+![IMG_5084](https://github.com/user-attachments/assets/4c6f6fb1-14a9-436e-be9a-9cc8aaa613dd)
+
 [ROMI Trial Video](https://youtu.be/yMir0CIqmmk "@embed")
