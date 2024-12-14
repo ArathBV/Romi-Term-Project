@@ -3,7 +3,7 @@ Cal Poly ME 405 Final Project. Differential Drive Romi-bot.
 
 ![IMG_5083](https://github.com/user-attachments/assets/6634316a-27ad-42bf-85a4-1a34ac572fc5)
 
-## Romi Tasks Design
+## Romi Software Design
 The motor control tasks (1 and 2) were designed according to the finite state machine below. The four motor states, following
 initialization, cycle between Start, Maintain, Stop, and Wait. It relies on the 'start' flag to be set or cleared from the sense
 task. The important state for motor control is the Maintain state. This state is responsible for the Feed-forward + Integral controller, 
@@ -31,6 +31,18 @@ still had difficulty running our Sense task faster than 100-110Hz. Given that, w
 since motor control and sensor reading needed to coincide for successful course navigation.
 
 ![Screenshot 2024-12-13 181541](https://github.com/user-attachments/assets/b38e1101-1e7c-4fd9-a60b-7d1e1baf820e)
+
+## Romi Hardware Design
+
+![IMG_5081](https://github.com/user-attachments/assets/ff9c0a01-6df9-4cdb-8f1b-b335b95f4bea)
+
+The sensors and components we used are as follows: 1 HC-06 bluetooth module, 1 QTR-8RC reflectance sensor array, 2 Pololu mini snap-action
+switches (used as bump sensors), and a BNO055 inertial measurement unit (functional with our driver class but unemployed for term project).
+The reflectance sensor array is supported with zip-ties through front holes of Romi's chassis, and the bump sensors are mounted with M2 
+screws and nuts. To extend beyond the front of the reflectance sensor array, the bump sensors were outfit with extension wires attached using
+hot-glue. The IMU was attached using provided M2.5 standoffs and screws; all sensor attachment can be seen below.
+
+![IMG_5081](https://github.com/user-attachments/assets/92791398-eb6c-4855-a269-e412c57ecfee)
 
 ## Romi Results
 ![IMG_7448](https://github.com/user-attachments/assets/6740c6f9-460a-4af2-9a72-9fac4a6b9206)
