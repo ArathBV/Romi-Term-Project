@@ -31,5 +31,5 @@ since motor control and sensor reading needed to coincide for successful course 
 ![Screenshot 2024-12-13 181541](https://github.com/user-attachments/assets/b38e1101-1e7c-4fd9-a60b-7d1e1baf820e)
 
 ## Romi Results
-![IMG_7448](https://github.com/user-attachments/assets/ca8bd635-dc7a-4b4a-b638-47ce1224f0e3)
+![IMG_7448](https://github.com/user-attachments/assets/6740c6f9-460a-4af2-9a72-9fac4a6b9206)
 [ROMI Trial Video](https://youtu.be/yMir0CIqmmk "@embed")
